@@ -6,7 +6,7 @@ author = "[Capital Parking Lot Lines Painting (CPLS)](https://capitalpaintingser
 tags = ["parking lot line painting", "number stencils", "precision", "accuracy", "CPLS", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 +++
 
-![Painting Number Stencils on Parking Lot Pavement](/blog/chalk.jpeg)
+![Painting Number Stencils on Parking Lot Pavement](/blog/stencil.jpeg)
 
 ## Introduction
 
