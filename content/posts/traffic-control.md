@@ -6,6 +6,7 @@ description = "Learn why traffic control is essential for successful parking lot
 author = "Capital Parking Lot Lines Painting (CPLS)"
 tags = ["traffic control", "parking lot line painting", "safety", "efficiency", "[CPLS](https://capitalpaintingservices.ca/)", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 featured_image='/blog/black-2569352_1280.jpg'
+keywords = ["CPLS", "parking lot line painting", "pavement maintenance", "seal coating", "social media presence", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 +++
 
 ![Parking Lot Line Painting](/blog/path.png "Quality Line Painting from CPLS")
