@@ -4,6 +4,7 @@ date = "2022-08-23T07:25:35-05:00"
 description = "Discover the significance of crosswalk markings in promoting pedestrian safety and facilitating efficient traffic flow in urban and suburban environments."
 author = "Capital Parking Lot Line Painting (CPLS)"
 tags = ["crosswalks", "pedestrian safety", "traffic flow", "urban planning", "CPLS", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
+keywords = ["CPLS", "parking lot line painting", "pavement maintenance", "seal coating", "social media presence", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 +++
 
 ![Crosswalk Markings](/blog/crosswlk.jpeg)

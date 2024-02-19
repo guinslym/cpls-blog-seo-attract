@@ -8,6 +8,7 @@ background = 'goldenbridge.jpg'
 author= "Capital Parking Lot Lines Painting (CPLS)"
 tags= ["parking lot line painting", "line striping", "parking lot maintenance", "CPLS", "Toronto", "Ottawa"]
 featured_image='/blog/woman-6318447_1280.jpg'
+keywords = ["CPLS", "parking lot line painting", "pavement maintenance", "seal coating", "social media presence", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 +++
 
 ![Parking Lot Line Painting](/blog/smile.png "Quality Line Painting from CPLS")
@@ -35,7 +36,7 @@ We invite you to join us in our mission to spread smiles through quality line pa
 
 ## Let's Work Together
 
-Ready to give someone a smile with a freshly painted parking lot from CPLS? Contact us today to learn more about our line painting services, request a free quote, or schedule a consultation. Together, we can create parking lots that not only function seamlessly but also bring joy to everyone who enters them.
+Ready to give someone a smile with a freshly painted parking lot from [Capital Parking Lot Line Painting (CPLS)](https://capitalpaintingservices.ca/)? Contact us today to learn more about our line painting services, request a free quote, or schedule a consultation. Together, we can create parking lots that not only function seamlessly but also bring joy to everyone who enters them.
 
 ## Conclusion
 

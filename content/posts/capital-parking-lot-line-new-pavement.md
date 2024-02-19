@@ -5,6 +5,7 @@ description = "Learn the best practices for painting parking lot lines on new pa
 author = "[Capital Parking Lot Lines Painting (CPLS)](https://capitalpaintingservices.ca/)"
 tags = ["parking lot line painting", "new pavement", "efficiency", "quality", "CPLS", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 featured_image='/blog/dark-1867089_1280.jpg'
+keywords = ["CPLS", "parking lot line painting", "pavement maintenance", "seal coating", "social media presence", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 +++
 
 ![Painting Parking Lot Lines on New Pavement](/blog/newpavement.jpeg)

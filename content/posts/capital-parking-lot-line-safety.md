@@ -4,6 +4,7 @@ date = "2022-08-23T07:25:35-05:00"
 description = "Discover the significance of safety lines in parking lots and how they contribute to improving safety, organization, and efficiency for both drivers and pedestrians."
 author = "Capital Parking Lot Line Painting (CPLS)"
 tags = ["parking lot safety", "safety lines", "parking lot markings", "traffic management", "CPLS", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
+keywords = ["CPLS", "parking lot line painting", "pavement maintenance", "seal coating", "social media presence", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 +++
 
 ![Safety Lines in Parking Lot](/blog/safety.jpeg)

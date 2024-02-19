@@ -4,6 +4,7 @@ date = "2023-10-10T07:25:35-05:00"
 description = "Learn the ins and outs of applying chalkline for precise and efficient parking lot line painting projects. Discover tips and tricks from the experts at Capital Parking Lot Lines Painting (CPLS)."
 author = "[Capital Parking Lot Lines Painting (CPLS)](https://capitalpaintingservices.ca/)"
 tags = ["chalkline", "parking lot line painting", "efficiency", "quality", "CPLS", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
+keywords = ["CPLS", "parking lot line painting", "pavement maintenance", "seal coating", "social media presence", "Toronto", "Ottawa", "pavement marking", "Barrie", "London", "Ontario"]
 +++
 
 ![Chalkline Application](/blog/chalk.jpeg)

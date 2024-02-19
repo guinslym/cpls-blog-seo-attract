@@ -4,6 +4,7 @@ date = "2022-08-23T07:25:35-05:00"
 description = "Discover the significance of arrow markings in parking lots and how they contribute to efficient traffic flow and enhanced safety."
 author = "Capital Parking Lot Line Painting (CPLS)"
 tags = ["parking lot arrows", "traffic flow", "safety", "efficiency", "CPLS", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
+keywords = ["CPLS", "parking lot line painting", "pavement maintenance", "seal coating", "social media presence", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 +++
 
 ![Parking Lot Arrows](/blog/arrow.jpeg)

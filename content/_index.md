@@ -1,8 +1,6 @@
 ---
 title: "Parking lot line striping"
-description: "Capital Parking Lot Line Painting (CPLS)"
-cascade:
-  featured_image: '/blog/path.png'
+description: "Blog - Capital Parking Lot Line Painting (CPLS)"
 author: "Capital Parking Lot Line Painting (CPLS)"
 keywords: ["parking lot safety", "safety lines", "parking lot markings", "traffic management", "CPLS", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 ---

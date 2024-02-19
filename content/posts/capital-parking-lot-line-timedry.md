@@ -4,6 +4,7 @@ date = "2023-10-20T07:25:35-05:00"
 description = "Discover why it's crucial to wait for parking lot lines to dry before driving over them. Learn about the benefits and consequences of premature line traffic and get expert advice from Capital Parking Lot Lines Painting (CPLS)."
 author = "[Capital Parking Lot Lines Painting (CPLS)](https://capitalpaintingservices.ca/)"
 tags = ["parking lot line painting", "line drying", "safety", "CPLS", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
+keywords = ["CPLS", "parking lot line painting", "pavement maintenance", "seal coating", "social media presence", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 +++
 
 ![Waiting for Parking Lot Lines to Dry](/blog/timedry.jpeg)

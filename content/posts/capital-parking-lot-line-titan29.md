@@ -4,6 +4,7 @@ date = "2023-09-25T07:25:35-05:00"
 description = "Learn how the Titan 3500 parking lot line striping machine enhances efficiency and quality in parking lot line painting projects."
 author = "[Capital Parking Lot Lines Painting (CPLS)](https://capitalpaintingservices.ca/)"
 tags = ["Powrliner Titan 3500", "parking lot line striping", "efficiency", "quality", "CPLS", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
+keywords = ["CPLS", "parking lot line painting", "pavement maintenance", "seal coating", 'line striping', "social media presence", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 +++
 
 ![Parking Lot Line Painting](/blog/titan29.jpeg "The Titan 3500 powrliner")
