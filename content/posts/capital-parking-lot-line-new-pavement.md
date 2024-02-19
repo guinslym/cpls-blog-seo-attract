@@ -4,6 +4,7 @@ date = "2023-11-15T07:25:35-05:00"
 description = "Learn the best practices for painting parking lot lines on new pavement to achieve optimal visibility, durability, and curb appeal. Discover expert tips from Capital Parking Lot Lines Painting (CPLS)."
 author = "[Capital Parking Lot Lines Painting (CPLS)](https://capitalpaintingservices.ca/)"
 tags = ["parking lot line painting", "new pavement", "efficiency", "quality", "CPLS", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
+featured_image='/blog/dark-1867089_1280.jpg'
 +++
 
 ![Painting Parking Lot Lines on New Pavement](/blog/newpavement.jpeg)

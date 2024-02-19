@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://parkinglotlinesblog.capitalpaintingservices.ca/'
 languageCode = 'en-us'
 title = 'Blog - Capital Parking Lot Lines Painting (CPLS)'
 theme = 'ananke'
+[services]
+  [services.googleAnalytics]
+    ID = 'G-XXXXXXXXX'

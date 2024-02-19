@@ -5,6 +5,7 @@ title = "The Importance of Traffic Control in Parking Lot Line Painting"
 description = "Learn why traffic control is essential for successful parking lot line painting projects and how it contributes to safety and efficiency."
 author = "Capital Parking Lot Lines Painting (CPLS)"
 tags = ["traffic control", "parking lot line painting", "safety", "efficiency", "[CPLS](https://capitalpaintingservices.ca/)", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
+featured_image='/blog/black-2569352_1280.jpg'
 +++
 
 ![Parking Lot Line Painting](/blog/path.png "Quality Line Painting from CPLS")

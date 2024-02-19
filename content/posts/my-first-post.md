@@ -1,10 +1,13 @@
 +++
 title= "Brighten Your Parking Lot: Give Someone a Smile with Quality Line Painting from CPLS"
 date = 2024-02-02T07:04:59-05:00
-draft = true
 description= "Spread positivity and enhance safety with professional parking lot line painting services from Capital Parking Lot Lines Painting (CPLS). Learn how quality line painting can make a difference. Toronto, Ottawa"
+slug = 'Toronto-Core-Value-Give-Someone-a-Smile-in-the-parking-lot'
+keywords='Parking lot'
+background = 'goldenbridge.jpg'
 author= "Capital Parking Lot Lines Painting (CPLS)"
 tags= ["parking lot line painting", "line striping", "parking lot maintenance", "CPLS", "Toronto", "Ottawa"]
+featured_image='/blog/woman-6318447_1280.jpg'
 +++
 
 ![Parking Lot Line Painting](/blog/smile.png "Quality Line Painting from CPLS")
