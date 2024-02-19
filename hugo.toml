@@ -6,3 +6,7 @@ googleAnalytics = "G-VRFCW41NVK"
 [services]
   [services.googleAnalytics]
     ID = 'G-VRFCW41NVK'
+[ananke_socials]
+    name = "linkedin"
+    url = "https://www.linkedin.com/"
+    label = "My Linkedin"
