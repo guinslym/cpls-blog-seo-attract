@@ -8,7 +8,6 @@ background = 'goldenbridge.jpg'
 author= "Capital Parking Lot Lines Painting (CPLS)"
 tags= ["parking lot line painting", "line striping", "parking lot maintenance", "CPLS", "Toronto", "Ottawa"]
 featured_image='/blog/woman-6318447_1280.jpg'
-keywords = ["CPLS", "parking lot line painting", "pavement maintenance", "seal coating", "social media presence", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 +++
 
 ![Parking Lot Line Painting](/blog/smile.png "Quality Line Painting from CPLS")
