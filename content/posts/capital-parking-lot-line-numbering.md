@@ -2,6 +2,7 @@
 title = "Mastering Precision: Painting Number Stencils on Parking Lot Pavement"
 date = "2023-09-15T07:25:35-05:00"
 description = "Learn the essential techniques for painting number stencils on parking lot pavement with precision and accuracy. Discover expert tips from Capital Parking Lot Lines Painting (CPLS)."
+slug = 'Ottawa-Capital-Parking-lot-line-painting-enough-paint'
 author = "[Capital Parking Lot Lines Painting (CPLS)](https://capitalpaintingservices.ca/)"
 tags = ["parking lot line painting", "number stencils", "precision", "accuracy", "CPLS", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
 keywords = ["CPLS", "parking lot line painting", "pavement maintenance", "crack filling", "social media presence", "Toronto", "Ottawa", "Oakville", "Barrie", "London", "Ontario"]
